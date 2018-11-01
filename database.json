@@ -1,0 +1,85 @@
+{
+    
+    "phones": [
+        {
+            "model": "J2 2017",
+            "price": 765000,
+            "battery": "3000",
+            "camera": "5MP",
+            "memory": "32GB",
+            "pid": "u100",
+            "company": "Samsung",
+            "comments": "Kattaroq displey...",
+            "random": 1
+        },
+        {
+            "model": "Redmi 5 Note",
+            "price": 1291140,
+            "battery": "3000",
+            "camera": "12MP",
+            "pid": "u101",
+            "company": "Mi",
+            "comments": "Arzon telefon!",
+            "random": 2
+        },
+        {
+            "model": "iPhone 5SE",
+            "price": 2364300,
+            "battery": "1678",
+            "camera": "12MP",
+            "pid": "u102",
+            "company": "Apple",
+            "comments": "Kichiklik tomon katta qadam!",
+            "random": 3
+        }
+    ],
+
+    "computers":[
+        {
+            "company": "ZED AIR",
+            "model": "n3350",
+            "cpu": "Intel Celeron N3350",
+            "ram": "3GB",
+            "memory": "500GB",
+            "cid": "u100",
+            "price": 1846720, 
+            "comments": "",
+            "random": 4
+        },
+        {
+            "company": "Acer",
+            "model": "n3060",
+            "cpu": "Intel Celeron N3060",
+            "ram": "2GB",
+            "memory": "500GB",
+            "cid": "u101",
+            "price": 1944680,
+            "comments": "",
+            "random": 5
+        }
+    ],
+    "printers":[
+        {
+            "company": "Canon",
+            "model": "LBP3060",
+            "c1": "18 varoq / minut",
+            "c2": "Ixcham",
+            "c3": "Tejamkor",
+            "prid": "u100",
+            "price": 1195500,
+            "comments": "Canondan ixcham printer!",
+            "random": 6
+        },
+        {
+            "company": "Canon",
+            "model": "MF231",
+            "c1": "Kopiya",
+            "c2": "Skaner",
+            "c3": "Chop etish",
+            "prid": "u101",
+            "price": 2112000,
+            "comments": "Canondan uch vazifali printer!",
+            "random": 7
+        }
+    ]
+}
